@@ -1,9 +1,12 @@
 # RentX
 
-<p align="center">
-  <img width="200px" src="./ui/src/assets/logo-color.png" alt="RentX Logo" style="vertical-align: middle;">
-  <span style="display: inline-block; vertical-align: middle; margin-left: 10px; font-size: 35px;">— Afford More, Own Less.</span>
-</p>
+<div align="center">
+  <img width="200px" src="./ui/src/assets/logo-color.png" alt="RentX Logo">
+  
+  <p style="font-size: 35px;">
+  — Afford More, Own Less.
+  </p>
+</div>
 
 
 ##
