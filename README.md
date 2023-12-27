@@ -382,4 +382,4 @@ Users can see the purchased products on orders page. It contains order image, na
  - Shubham Dippakkumar Jethva (B00965783)  sh526033@dal.ca 
 
 # License
-This project is licensed under the MIT License - see the [LICENSE.md](https://git.cs.dal.ca/courses/2023-fall/csci-5308/Group08/-/blob/development/License.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./License.md) file for details.
